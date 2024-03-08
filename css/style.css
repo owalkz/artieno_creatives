@@ -325,15 +325,15 @@ main > section {
 }
 
 .slider-1 {
-  background-image: url(../images/slider/slider-1.jpg);
+  background-image: url(../images/slider/cam2.jpeg);
 }
 
 .slider-2 {
-  background-image: url(../images/slider/slider-2.jpg);
+  background-image: url(../images/slider/birthday.jpeg);
 }
 
 .slider-3 {
-  background-image: url(../images/slider/slider-3.jpg);
+  background-image: url(../images/slider/cam1.jpeg);
 }
 
 .sl-slider-wrapper {
@@ -610,7 +610,7 @@ main > section {
     Video Section
 ==================================================================*/
 .video-bg {
-  background: transparent url("../images/Collo-1.jpg") no-repeat scroll center center/cover;
+  background: transparent url("../images/colloseum_residence.jpeg") no-repeat scroll center center/cover;
   color: #fff;
   position: relative;
   text-align: center;
@@ -847,7 +847,7 @@ ul.external li a:hover {
 	Testimonials
 ==================================================================*/
 #testimonials {
-  background-image: url(../images/parallax/testimonial.jpg);
+  background-image: url(../images/parallax/birthday.jpeg);
   /*padding: 0;*/
   color: #fff;
   position: relative;
@@ -1018,7 +1018,7 @@ ul.external li a:hover {
 	Price
 ==================================================================*/
 #social {
-  background-image: url(../images/parallax/testimonial.jpg);
+  background-image: url(../images/parallax/birthday.jpeg);
   padding: 0;
 }
 
